@@ -6,17 +6,10 @@ import java.sql.SQLException;
 
 public class DBConnection {
     public static Connection initDB() throws SQLException, ClassNotFoundException {
-
-        /**
-            У цій лабораторній роботі мені не вдалося встановити БД PostgreSQL,
-            чомусь не вдавалося запустити встановлювач.
-            Тому я тут використовував БД MySQL
-        */
-
-        String dbDriver = "com.mysql.jdbc.Driver";
-        String dbURL = "jdbc:mysql://localhost:3306/";
-        String dbName = "lowcostdb";
-        String dbUsername = "root";
+        String dbDriver = "org.postgresql.Driver";
+        String dbURL = "jdbc:postgresql://localhost:5432/";
+        String dbName = "lowcost1";
+        String dbUsername = "postgres";
         String dbPassword = "admin";
 
         Class.forName(dbDriver);

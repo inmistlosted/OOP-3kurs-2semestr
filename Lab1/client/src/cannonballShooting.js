@@ -34,7 +34,7 @@ var impactPoint = new THREE.Vector3();
 var impactNormal = new THREE.Vector3();
 
 // Веб сокет
-var webSocket = new WebSocket("ws://localhost:8080/cannonball");
+var webSocket = new WebSocket("ws://localhost:9000/cannonball");
 
 var weight, tick, radius, speed;
 

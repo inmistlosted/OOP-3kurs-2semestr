@@ -24,4 +24,4 @@
         </tr>
     </table>
 </form>
-<%@ include file="/views/commons/footer.jsp"%>
+<%@ include file="commons/footer.jsp"%>

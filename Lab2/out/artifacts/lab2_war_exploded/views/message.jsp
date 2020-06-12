@@ -2,4 +2,4 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ include file="commons/header.jsp"%>
 <h2 class="message">${message}</h2>
-<%@ include file="/views/commons/footer.jsp"%>
+<%@ include file="commons/footer.jsp"%>

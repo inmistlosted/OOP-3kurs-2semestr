@@ -42,4 +42,4 @@
         </table>
     </form>
 </c:if>
-<%@ include file="/views/commons/footer.jsp"%>
+<%@ include file="commons/footer.jsp"%>

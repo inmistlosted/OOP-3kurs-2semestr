@@ -15,7 +15,7 @@
 </div>
 </c:if>
 <div class="header">
-    <a href="${pageContext.request.contextPath}/"><p class="header-title">Low cost airlines</p></a>
+    <a href="${pageContext.request.contextPath}/flights"><p class="header-title">Low cost airlines</p></a>
 </div>
 
 

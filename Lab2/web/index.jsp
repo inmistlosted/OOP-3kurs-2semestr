@@ -11,7 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  <jsp:forward  page="/flights" >
+  <jsp:forward  page="views/index.jsp" >
     <jsp:param value="listPaintings" name="op" />
   </jsp:forward>
   </body>

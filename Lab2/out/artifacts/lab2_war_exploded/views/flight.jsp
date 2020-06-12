@@ -23,4 +23,4 @@
     <p class="infos">Flight time:<span class="infos-tip">${flight.flightTime}</span></p>
     <p class="infos">Price:<span class="infos-tip">$${flight.price}</span></p>
 </div>
-<%@ include file="/views/commons/footer.jsp"%>
+<%@ include file="commons/footer.jsp"%>

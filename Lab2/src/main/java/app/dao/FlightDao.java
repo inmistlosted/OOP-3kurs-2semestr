@@ -29,6 +29,8 @@ public class FlightDao {
             flights.add(new Flight(id, direction, departureTime, flightTime, seatsNum, startPrice));
         }
 
+        System.out.println(flights);
+
         rs.close();
         conn.close();
 

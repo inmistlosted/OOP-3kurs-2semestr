@@ -20,7 +20,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @SpringBootTest
 @AutoConfigureMockMvc
 @WithUserDetails("qwe")
-@Sql(value = {"/del-tickets.sql","/create-seat-after.sql", "/create-user-before.sql", "/flights-list-before.sql", "/create-seat-before.sql"}, executionPhase = Sql.ExecutionPhase.BEFORE_TEST_METHOD)
+@Sql(value = {"/del-tickets.sql","/create-seat-after.sql", "/create-user-before2.sql", "/flights-list-before.sql", "/create-seat-before2.sql"}, executionPhase = Sql.ExecutionPhase.BEFORE_TEST_METHOD)
 @Sql(value = {"/del-tickets.sql", "/create-seat-after.sql", "/create-user-after.sql", "/flights-list-after.sql"}, executionPhase = Sql.ExecutionPhase.AFTER_TEST_METHOD)
 class LoginTest {
     @Autowired

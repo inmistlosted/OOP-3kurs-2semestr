@@ -61,7 +61,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -76,15 +76,16 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.lowcost.configs" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaProjects\OOP2\Lab3_2\src\test\resources" />
-      <recent name="D:\JavaProjects\OOP2\Lab3_2\src\main\resources\static" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\OOP2\Lab3_2\src\main\resources\static\css" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\JavaProjects\OOP2\Lab3_2\src\main\resources\static\css" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\OOP2\Lab3" />
+      <recent name="D:\JavaProjects\OOP2\Lab3_2\src\test\resources" />
+      <recent name="D:\JavaProjects\OOP2\Lab3_2\src\main\resources\static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -108,7 +109,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in lowcost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in lowcost (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lowcost" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in lowcost (2)" />
         <item itemvalue="Spring Boot.Application (1)" />
         <item itemvalue="JUnit.All in lowcost (1)" />
         <item itemvalue="JUnit.FlightServiceTest.getDepartureDateDiff" />
         <item itemvalue="JUnit.FlightServiceTest.calculateCurrPrice" />
-        <item itemvalue="JUnit.All in lowcost" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +204,12 @@
       <workItem from="1587988151819" duration="24298000" />
       <workItem from="1588065905930" duration="42552000" />
       <workItem from="1589389449301" duration="1986000" />
-      <workItem from="1589450401662" duration="3848000" />
+      <workItem from="1589450401662" duration="5697000" />
+      <workItem from="1590485333190" duration="2213000" />
+      <workItem from="1590686554518" duration="2668000" />
+      <workItem from="1590772389260" duration="582000" />
+      <workItem from="1590994409052" duration="27000" />
+      <workItem from="1591954490589" duration="8178000" />
     </task>
     <servers />
   </component>
@@ -212,6 +218,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lab3$All_in_lowcost.ic" NAME="All in lowcost Coverage Results" MODIFIED="1589451296914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Lab3$All_in_lowcost__2_.ic" NAME="All in lowcost (2) Coverage Results" MODIFIED="1591956560190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Lab3$All_in_lowcost__1_.ic" NAME="All in lowcost (1) Coverage Results" MODIFIED="1589451515051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Lab3_2$All_in_Lab3_2.ic" NAME="All in Lab3_2 Coverage Results" MODIFIED="1588165569125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
