@@ -7,6 +7,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
+		/** Варіант №3, Завдання №1 */
+		
         Scanner scanner = new Scanner(System.in);
         TriangleService service = new TriangleService();
 
